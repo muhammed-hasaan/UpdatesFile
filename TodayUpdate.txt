@@ -1,0 +1,9 @@
+********** Today Update ************
+
+Assalamoalikum Sir Today i have created the User Management Functionality in the admin dashboard from where the adin can
+see all the users and also update their statuses and also created the detail page of perticular user by dynamic routing 
+by which the admin can see the full detail of the perticular client and also the admin can update the client info like
+name , email ,password , company name and etc
+
+********** Today Update ************
+************ 1/4/2025 **************

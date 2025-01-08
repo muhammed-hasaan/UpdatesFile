@@ -1,0 +1,7 @@
+********** Today Update ************
+
+Assalamoalikum Sir Today I have created the functionality in admin pannel by which the admin can wiew all the interview of the perticular 
+client and also can monitor all the interviews created all the invites that client send to the candidate 
+
+********** Today Update ************
+************ 1/6/2025 **************
